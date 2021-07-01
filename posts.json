@@ -1,0 +1,10 @@
+{
+    "first": {
+        "title": "First post",
+        "content": "Hey this is my 1st post"
+    },
+    "second": {
+        "title": "Second post",
+        "content": "Hey this is my 2nd post"
+    }
+}
